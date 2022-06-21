@@ -14,7 +14,7 @@
 
     <properties>
         <mybatis-spring-boot>1.2.0</mybatis-spring-boot>
-        <mysql-spring-boot>5.1.32</mysql-spring-boot>
+        <mysql-spring-boot>8.0.28</mysql-spring-boot>
         <druid>1.0.18</druid>
     </properties>
 
